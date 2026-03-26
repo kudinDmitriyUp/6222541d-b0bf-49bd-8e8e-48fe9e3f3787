@@ -52,6 +52,10 @@ export default function LandingPage() {
         },
       ]}
       brandName="Aura Travel"
+      button={{
+        text: "Book Now",
+        href: "#contact",
+      }}
     />
   </div>
 
