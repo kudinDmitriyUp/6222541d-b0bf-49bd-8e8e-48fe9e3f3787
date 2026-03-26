@@ -50,9 +50,9 @@ export default function LandingPage() {
           text: "Start Your Journey",          href: "#contact"},
       ]}
       slides={[
-        { imageSrc: "https://pixabay.com/get/g2498866d375265078484ee882dc50107b31cc8dd130bbbc87f2806611a17c98aa414724e23fccad6ef1bac581a296fc130a3248e029abaf7f0bf704aca96e262_1280.jpg", imageAlt: "Luxury travel view" },
-        { imageSrc: "https://pixabay.com/get/g2498866d375265078484ee882dc50107b31cc8dd130bbbc87f2806611a17c98aa414724e23fccad6ef1bac581a296fc130a3248e029abaf7f0bf704aca96e262_1280.jpg", imageAlt: "Exclusive destination" },
-        { imageSrc: "https://pixabay.com/get/g2498866d375265078484ee882dc50107b31cc8dd130bbbc87f2806611a17c98aa414724e23fccad6ef1bac581a296fc130a3248e029abaf7f0bf704aca96e262_1280.jpg", imageAlt: "Travel adventure" },
+        { imageSrc: "https://pixabay.com/get/g2498866d375265078484ee882dc50107b31cc8dd130bbbc87f2806611a17c98aa414724e23fccad6ef1bac581a296fc130a3248e029abaf7f0bf704aca96e262_1280.jpg?_wi=1", imageAlt: "Luxury travel view" },
+        { imageSrc: "https://pixabay.com/get/g2498866d375265078484ee882dc50107b31cc8dd130bbbc87f2806611a17c98aa414724e23fccad6ef1bac581a296fc130a3248e029abaf7f0bf704aca96e262_1280.jpg?_wi=2", imageAlt: "Exclusive destination" },
+        { imageSrc: "https://pixabay.com/get/g2498866d375265078484ee882dc50107b31cc8dd130bbbc87f2806611a17c98aa414724e23fccad6ef1bac581a296fc130a3248e029abaf7f0bf704aca96e262_1280.jpg?_wi=3", imageAlt: "Travel adventure" },
       ]}
     />
   </div>
@@ -77,9 +77,9 @@ export default function LandingPage() {
       useInvertedBackground={false}
       uniformGridCustomHeightClasses="h-64"
       features={[
-        { title: "Private Air", description: "Seamless travel on your terms.", imageSrc: "https://pixabay.com/get/g5828e1ca9cdb8ab20bae4f25ac67c541b0f3bf63494f2d52ffc7ba113ecd4cfd6419a498eb0ddcfe96cd2c7d7f06325fd55b6affe2385240137f296ab8726ff4_1280.jpg" },
-        { title: "Secluded Estates", description: "Private villas in remote locations.", imageSrc: "https://pixabay.com/get/gff30c2d5aa0a287f45c3505fbf791bdec13d7c43ac8b676264f3e8fc509338a056e6e4bca7634c5ecff4c8e63beb5b5f6dfd7a3168788ab3b11fc4674248fe6c_1280.jpg" },
-        { title: "Gourmet Dining", description: "Michelin-star experiences anywhere.", imageSrc: "https://pixabay.com/get/g0f7fc6297e5a23cb2c50300c55c7bd98ef74e7f9f7ab3dfd938a8dd1dc8d4cdff49255cacc8f9764056f656ec6455d8d561ac8c58a9db3102a0ca3be13a4cf0b_1280.jpg" },
+        { title: "Private Air", description: "Seamless travel on your terms.", imageSrc: "https://pixabay.com/get/g5828e1ca9cdb8ab20bae4f25ac67c541b0f3bf63494f2d52ffc7ba113ecd4cfd6419a498eb0ddcfe96cd2c7d7f06325fd55b6affe2385240137f296ab8726ff4_1280.jpg?_wi=1" },
+        { title: "Secluded Estates", description: "Private villas in remote locations.", imageSrc: "https://pixabay.com/get/gff30c2d5aa0a287f45c3505fbf791bdec13d7c43ac8b676264f3e8fc509338a056e6e4bca7634c5ecff4c8e63beb5b5f6dfd7a3168788ab3b11fc4674248fe6c_1280.jpg?_wi=1" },
+        { title: "Gourmet Dining", description: "Michelin-star experiences anywhere.", imageSrc: "https://pixabay.com/get/g0f7fc6297e5a23cb2c50300c55c7bd98ef74e7f9f7ab3dfd938a8dd1dc8d4cdff49255cacc8f9764056f656ec6455d8d561ac8c58a9db3102a0ca3be13a4cf0b_1280.jpg?_wi=1" },
       ]}
       title="Unrivaled Comfort"
       description="Every detail of your journey is handled with precision."
@@ -92,9 +92,9 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={true}
       features={[
-        { id: 1, title: "Consultation", description: "Define your dreams.", phoneOne: { imageSrc: "https://pixabay.com/get/g5828e1ca9cdb8ab20bae4f25ac67c541b0f3bf63494f2d52ffc7ba113ecd4cfd6419a498eb0ddcfe96cd2c7d7f06325fd55b6affe2385240137f296ab8726ff4_1280.jpg" }, phoneTwo: { imageSrc: "https://pixabay.com/get/g5828e1ca9cdb8ab20bae4f25ac67c541b0f3bf63494f2d52ffc7ba113ecd4cfd6419a498eb0ddcfe96cd2c7d7f06325fd55b6affe2385240137f296ab8726ff4_1280.jpg" } },
-        { id: 2, title: "Curation", description: "We build your route.", phoneOne: { imageSrc: "https://pixabay.com/get/gff30c2d5aa0a287f45c3505fbf791bdec13d7c43ac8b676264f3e8fc509338a056e6e4bca7634c5ecff4c8e63beb5b5f6dfd7a3168788ab3b11fc4674248fe6c_1280.jpg" }, phoneTwo: { imageSrc: "https://pixabay.com/get/gff30c2d5aa0a287f45c3505fbf791bdec13d7c43ac8b676264f3e8fc509338a056e6e4bca7634c5ecff4c8e63beb5b5f6dfd7a3168788ab3b11fc4674248fe6c_1280.jpg" } },
-        { id: 3, title: "Execution", description: "You travel flawlessly.", phoneOne: { imageSrc: "https://pixabay.com/get/g0f7fc6297e5a23cb2c50300c55c7bd98ef74e7f9f7ab3dfd938a8dd1dc8d4cdff49255cacc8f9764056f656ec6455d8d561ac8c58a9db3102a0ca3be13a4cf0b_1280.jpg" }, phoneTwo: { imageSrc: "https://pixabay.com/get/g0f7fc6297e5a23cb2c50300c55c7bd98ef74e7f9f7ab3dfd938a8dd1dc8d4cdff49255cacc8f9764056f656ec6455d8d561ac8c58a9db3102a0ca3be13a4cf0b_1280.jpg" } },
+        { id: 1, title: "Consultation", description: "Define your dreams.", phoneOne: { imageSrc: "https://pixabay.com/get/g5828e1ca9cdb8ab20bae4f25ac67c541b0f3bf63494f2d52ffc7ba113ecd4cfd6419a498eb0ddcfe96cd2c7d7f06325fd55b6affe2385240137f296ab8726ff4_1280.jpg?_wi=2" }, phoneTwo: { imageSrc: "https://pixabay.com/get/g5828e1ca9cdb8ab20bae4f25ac67c541b0f3bf63494f2d52ffc7ba113ecd4cfd6419a498eb0ddcfe96cd2c7d7f06325fd55b6affe2385240137f296ab8726ff4_1280.jpg?_wi=3" } },
+        { id: 2, title: "Curation", description: "We build your route.", phoneOne: { imageSrc: "https://pixabay.com/get/gff30c2d5aa0a287f45c3505fbf791bdec13d7c43ac8b676264f3e8fc509338a056e6e4bca7634c5ecff4c8e63beb5b5f6dfd7a3168788ab3b11fc4674248fe6c_1280.jpg?_wi=2" }, phoneTwo: { imageSrc: "https://pixabay.com/get/gff30c2d5aa0a287f45c3505fbf791bdec13d7c43ac8b676264f3e8fc509338a056e6e4bca7634c5ecff4c8e63beb5b5f6dfd7a3168788ab3b11fc4674248fe6c_1280.jpg?_wi=3" } },
+        { id: 3, title: "Execution", description: "You travel flawlessly.", phoneOne: { imageSrc: "https://pixabay.com/get/g0f7fc6297e5a23cb2c50300c55c7bd98ef74e7f9f7ab3dfd938a8dd1dc8d4cdff49255cacc8f9764056f656ec6455d8d561ac8c58a9db3102a0ca3be13a4cf0b_1280.jpg?_wi=2" }, phoneTwo: { imageSrc: "https://pixabay.com/get/g0f7fc6297e5a23cb2c50300c55c7bd98ef74e7f9f7ab3dfd938a8dd1dc8d4cdff49255cacc8f9764056f656ec6455d8d561ac8c58a9db3102a0ca3be13a4cf0b_1280.jpg?_wi=3" } },
       ]}
       showStepNumbers={true}
       title="Your Custom Journey"
@@ -108,9 +108,9 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       features={[
-        { id: "1", title: "Maldives", description: "Oasis of peace.", tag: "Ocean", imageSrc: "https://pixabay.com/get/gff30c2d5aa0a287f45c3505fbf791bdec13d7c43ac8b676264f3e8fc509338a056e6e4bca7634c5ecff4c8e63beb5b5f6dfd7a3168788ab3b11fc4674248fe6c_1280.jpg" },
-        { id: "2", title: "Swiss Alps", description: "Majestic peaks.", tag: "Mountain", imageSrc: "https://pixabay.com/get/g0f7fc6297e5a23cb2c50300c55c7bd98ef74e7f9f7ab3dfd938a8dd1dc8d4cdff49255cacc8f9764056f656ec6455d8d561ac8c58a9db3102a0ca3be13a4cf0b_1280.jpg" },
-        { id: "3", title: "Kyoto", description: "Serenity redefined.", tag: "Culture", imageSrc: "https://pixabay.com/get/g5828e1ca9cdb8ab20bae4f25ac67c541b0f3bf63494f2d52ffc7ba113ecd4cfd6419a498eb0ddcfe96cd2c7d7f06325fd55b6affe2385240137f296ab8726ff4_1280.jpg" },
+        { id: "1", title: "Maldives", description: "Oasis of peace.", tag: "Ocean", imageSrc: "https://pixabay.com/get/gff30c2d5aa0a287f45c3505fbf791bdec13d7c43ac8b676264f3e8fc509338a056e6e4bca7634c5ecff4c8e63beb5b5f6dfd7a3168788ab3b11fc4674248fe6c_1280.jpg?_wi=4" },
+        { id: "2", title: "Swiss Alps", description: "Majestic peaks.", tag: "Mountain", imageSrc: "https://pixabay.com/get/g0f7fc6297e5a23cb2c50300c55c7bd98ef74e7f9f7ab3dfd938a8dd1dc8d4cdff49255cacc8f9764056f656ec6455d8d561ac8c58a9db3102a0ca3be13a4cf0b_1280.jpg?_wi=4" },
+        { id: "3", title: "Kyoto", description: "Serenity redefined.", tag: "Culture", imageSrc: "https://pixabay.com/get/g5828e1ca9cdb8ab20bae4f25ac67c541b0f3bf63494f2d52ffc7ba113ecd4cfd6419a498eb0ddcfe96cd2c7d7f06325fd55b6affe2385240137f296ab8726ff4_1280.jpg?_wi=4" },
       ]}
       title="Signature Destinations"
       description="Inspiring landscapes and experiences."
